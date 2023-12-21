@@ -3,8 +3,8 @@
 require_once __DIR__ . '/../src/PlaceholderImg.php';
 require_once __DIR__ . '/../src/Exceptions/InvalidDimensionsException.php';
 
-use PlaceholderImg\PlaceholderImg;
-use PlaceholderImg\Exceptions\InvalidDimensionsException;
+use Nishadil\PlaceholderImg\PlaceholderImg;
+use Nishadil\PlaceholderImg\Exceptions\InvalidDimensionsException;
 
 // Example usage:
 try {
