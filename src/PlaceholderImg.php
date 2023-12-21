@@ -1,8 +1,8 @@
 <?php
 
-namespace PlaceholderImg;
+namespace Nishadil\PlaceholderImg;
 
-use PlaceholderImg\Exceptions\InvalidDimensionsException;
+use Nishadil\PlaceholderImg\Exceptions\InvalidDimensionsException;
 
 class PlaceholderImg
 {

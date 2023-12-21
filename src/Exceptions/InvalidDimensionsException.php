@@ -1,6 +1,6 @@
 <?php
 
-namespace PlaceholderImg\Exceptions;
+namespace Nishadil\PlaceholderImg\Exceptions;
 
 use InvalidArgumentException;
 
